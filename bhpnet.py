@@ -15,19 +15,9 @@ upload_destination = ""
 port = 0
 
 def usage():
-    print("BHP Net Tool")
-    print()
-    print("Usge:bhpnet.py -t target_host -p port")
-    print("-l --listen              -listen on [host]:[port] for incoming connections")
-    print("-c --command             -initialize a command shell")
-    print("-e --execute             -execute the given file upon receiving a connection")
-    print("-u --upload=destination  -upon receiving connection upload a file and write to [destination]")
-    print()
-    print("Examples:")
-    print("bhpnet.py -t 192.168.0.1 -p 5555 -l -c")
-    print("bhpnet.py -t 192.168.0.1 -p 5555 -l -u=C:\\target.exe")
-    print("bhpnet.py -t 192.168.0.1 -p 5555 -l -e=\"cat /etc/passwd\"")
-    print("echo 'ABCDEFGHI' | ./bhpnet.py -t 192.168.11.12 -p 135")
+    helptext = open("help","r")
+    print(helptext.read())
+    helptext.close()
     sys.exit(0)
 
 def client_sender(buffer):

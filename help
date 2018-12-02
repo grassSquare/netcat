@@ -1,0 +1,13 @@
+BHP Net Tool
+
+Usge:bhpnet.py -t target_host -p port
+-l --listen              -listen on [host]:[port] for incoming connections
+-c --command             -initialize a command shell
+-e --execute             -execute the given file upon receiving a connection
+-u --upload=destination  -upon receiving connection upload a file and write to [destination]
+
+Examples:
+bhpnet.py -t 192.168.0.1 -p 5555 -l -c
+bhpnet.py -t 192.168.0.1 -p 5555 -l -u=C:\\target.exe
+bhpnet.py -t 192.168.0.1 -p 5555 -l -e=\"cat /etc/passwd\"
+echo 'ABCDEFGHI' | ./bhpnet.py -t 192.168.11.12 -p 135
