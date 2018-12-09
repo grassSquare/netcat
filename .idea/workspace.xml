@@ -1,0 +1,1137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d90021f9-7b4f-416e-9a4e-48532f42dfb7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/natcat.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter10/bhvulnservice.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter10/file_monitor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter10/process_monitor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter11/cmeasure.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter11/code_coverage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter11/code_inject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter11/grabhashes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter2/bhnet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter2/listing-1-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter2/proxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter3/scanner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter3/sniffer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter3/sniffer_ip_header_decode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter3/sniffer_with_icmp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter4/arper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter4/mail_sniffer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter4/pic_carver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter5/content_bruter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter5/joomla_killer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter5/web_app_mapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter6/bhp_bing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter6/bhp_fuzzer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter6/jython-standalone-2.7-b1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter7/git_trojan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter8/keylogger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter8/sandbox_detect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter8/screenshotter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter8/shell_exec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter9/cred_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter9/decryptor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter9/ie_exfil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter9/keygen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/BHP-Code/Chapter9/mitb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/__MACOSX/BHP-Code/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/__MACOSX/BHP-Code/Chapter10/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/__MACOSX/BHP-Code/Chapter10/._bhvulnservice.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/__MACOSX/BHP-Code/Chapter10/._process_monitor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/__MACOSX/BHP-Code/Chapter11/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/__MACOSX/BHP-Code/Chapter3/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/__MACOSX/BHP-Code/Chapter4/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/__MACOSX/BHP-Code/Chapter4/._arper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/__MACOSX/BHP-Code/Chapter6/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/__MACOSX/BHP-Code/Chapter6/._jython-standalone-2.7-b1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/__MACOSX/BHP-Code/Chapter9/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26683/__MACOSX/BHP-Code/Chapter9/._mitb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flashSocketConnection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easy-install.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easy_install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easygui-0.98.1.dist-info/DESCRIPTION.rst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easygui-0.98.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easygui-0.98.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easygui-0.98.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easygui-0.98.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easygui-0.98.1.dist-info/metadata.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easygui-0.98.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easygui/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easygui/boxes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easygui/boxes/about.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easygui/boxes/base_boxes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easygui/boxes/button_box.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easygui/boxes/choice_box.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easygui/boxes/demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easygui/boxes/derived_boxes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easygui/boxes/diropen_box.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easygui/boxes/egstore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easygui/boxes/fileboxsetup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easygui/boxes/fileopen_box.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easygui/boxes/filesave_box.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easygui/boxes/fillable_box.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easygui/boxes/global_state.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easygui/boxes/multi_fillable_box.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easygui/boxes/text_box.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easygui/boxes/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easygui/easygui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easygui/python_and_check_logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easygui/python_and_check_logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easygui/python_and_check_logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/easygui/zzzzz.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/not-zip-safe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/requires.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/EGG-INFO/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/basecommand.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/baseparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/build_env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/cmdoptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/completion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/configuration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/freeze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/hash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/help.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/show.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/uninstall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/commands/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/configuration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/locations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/models/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/operations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/operations/check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/operations/freeze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/operations/prepare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/pep425tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/req/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/req/req_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/req/req_install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/req/req_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/req/req_uninstall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/resolve.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/status_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/appdirs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/deprecation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/encoding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/filesystem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/glibc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/hashes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/misc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/outdated.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/packaging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/setuptools_build.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/temp_dir.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/typing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/utils/ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/vcs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/vcs/bazaar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/vcs/git.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/vcs/mercurial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/vcs/subversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/appdirs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/_cmd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/adapter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/caches/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/caches/file_cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/caches/redis_cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/filewrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/heuristics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/serialize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/cachecontrol/wrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/certifi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/certifi/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/certifi/cacert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/certifi/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/big5freq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/big5prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/chardistribution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/charsetgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/charsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/cli/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/cli/chardetect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/codingstatemachine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/cp949prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/enums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/escprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/escsm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/eucjpprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/euckrfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/euckrprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/euctwfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/euctwprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/gb2312freq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/gb2312prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/hebrewprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/jisfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/jpcntx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langbulgarianmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langcyrillicmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langgreekmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langhebrewmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langhungarianmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langthaimodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/langturkishmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/latin1prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/mbcharsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/mbcsgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/mbcssm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/sbcharsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/sbcsgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/sjisprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/universaldetector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/utf8prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/chardet/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/colorama/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/colorama/ansi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/colorama/ansitowin32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/colorama/initialise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/colorama/win32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/colorama/winterm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/_backport/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/_backport/misc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/_backport/shutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/_backport/sysconfig.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/_backport/sysconfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/_backport/tarfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/manifest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/markers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/metadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/resources.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/scripts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/t32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/t64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/w32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/w64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distlib/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/distro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_ihatexml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_inputstream.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_tokenizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/datrie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_trie/py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/alphabeticalattributes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/inject_meta_charset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/lint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/optionaltags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/sanitizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/filters/whitespace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/html5parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/serializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treeadapters/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treeadapters/genshi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treeadapters/sax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/dom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/etree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treebuilders/etree_lxml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/dom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/etree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/etree_lxml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/html5lib/treewalkers/genshi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/codec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/idnadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/intranges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/package_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/idna/uts46data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/ipaddress.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/lockfile/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/lockfile/linklockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/lockfile/mkdirlockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/lockfile/pidlockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/lockfile/sqlitelockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/lockfile/symlinklockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/msgpack/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/msgpack/_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/msgpack/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/msgpack/fallback.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/__about__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/_structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/markers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/requirements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/specifiers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/packaging/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pkg_resources/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pkg_resources/py31compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/progress/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/progress/bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/progress/counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/progress/helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/progress/spinner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pyparsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pytoml/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pytoml/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pytoml/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/pytoml/writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/__version__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/_internal_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/adapters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/certs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/cookies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/help.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/hooks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/packages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/sessions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/status_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/requests/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/retrying.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/_collections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/connectionpool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/_securetransport/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/_securetransport/bindings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/_securetransport/low_level.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/appengine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/ntlmpool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/pyopenssl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/securetransport.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/contrib/socks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/fields.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/filepost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/packages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/packages/backports/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/packages/backports/makefile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/packages/ordered_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/packages/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/poolmanager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/retry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/selectors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/ssl_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/timeout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/urllib3/util/wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/webencodings/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/webencodings/labels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/webencodings/mklabels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/webencodings/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_vendor/webencodings/x_user_defined.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-18.1.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-18.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-18.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-18.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-18.1.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip-18.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/build_env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/cli/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/cli/autocompletion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/cli/base_command.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/cli/cmdoptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/cli/main_parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/cli/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/cli/status_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/commands/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/commands/check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/commands/completion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/commands/configuration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/commands/download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/commands/freeze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/commands/hash.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/commands/help.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/commands/install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/commands/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/commands/search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/commands/show.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/commands/uninstall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/commands/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/configuration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/download.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/locations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/models/candidate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/models/format_control.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/models/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/models/link.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/operations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/operations/check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/operations/freeze.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/operations/prepare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/pep425tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/pyproject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/req/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/req/constructors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/req/req_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/req/req_install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/req/req_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/req/req_tracker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/req/req_uninstall.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/resolve.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/utils/appdirs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/utils/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/utils/deprecation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/utils/encoding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/utils/filesystem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/utils/glibc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/utils/hashes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/utils/logging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/utils/misc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/utils/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/utils/outdated.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/utils/packaging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/utils/setuptools_build.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/utils/temp_dir.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/utils/typing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/utils/ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/vcs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/vcs/bazaar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/vcs/git.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/vcs/mercurial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/vcs/subversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_internal/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/appdirs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/cachecontrol/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/cachecontrol/_cmd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/cachecontrol/adapter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/cachecontrol/cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/cachecontrol/caches/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/cachecontrol/caches/redis_cache.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/cachecontrol/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/cachecontrol/controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/cachecontrol/filewrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/cachecontrol/heuristics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/cachecontrol/serialize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/cachecontrol/wrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/certifi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/certifi/__main__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/certifi/cacert.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/certifi/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/big5freq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/big5prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/chardistribution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/charsetgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/charsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/cli/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/cli/chardetect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/codingstatemachine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/cp949prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/enums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/escprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/escsm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/eucjpprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/euckrfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/euckrprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/euctwfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/euctwprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/gb2312freq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/gb2312prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/hebrewprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/jisfreq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/jpcntx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/langbulgarianmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/langcyrillicmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/langgreekmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/langhebrewmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/langhungarianmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/langthaimodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/langturkishmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/latin1prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/mbcharsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/mbcsgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/mbcssm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/sbcharsetprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/sbcsgroupprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/sjisprober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/universaldetector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/utf8prober.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/chardet/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/colorama/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/colorama/ansi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/colorama/ansitowin32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/colorama/initialise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/colorama/win32.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/colorama/winterm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/_backport/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/_backport/misc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/_backport/shutil.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/_backport/sysconfig.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/_backport/sysconfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/_backport/tarfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/locators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/manifest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/markers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/metadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/resources.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/scripts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/t32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/t64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/w32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/w64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distlib/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/distro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/_ihatexml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/_inputstream.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/_tokenizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/_trie/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/_trie/_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/_trie/datrie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/_trie/py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/filters/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/filters/alphabeticalattributes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/filters/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/filters/inject_meta_charset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/filters/lint.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/filters/optionaltags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/filters/sanitizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/filters/whitespace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/html5parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/serializer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/treeadapters/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/treeadapters/genshi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/treeadapters/sax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/treebuilders/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/treebuilders/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/treebuilders/dom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/treebuilders/etree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/treebuilders/etree_lxml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/treewalkers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/treewalkers/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/treewalkers/dom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/treewalkers/etree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/treewalkers/etree_lxml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/html5lib/treewalkers/genshi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/idna/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/idna/codec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/idna/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/idna/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/idna/idnadata.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/idna/intranges.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/idna/package_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/idna/uts46data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/ipaddress.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/lockfile/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/lockfile/linklockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/lockfile/mkdirlockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/lockfile/pidlockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/lockfile/sqlitelockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/lockfile/symlinklockfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/msgpack/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/msgpack/_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/msgpack/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/msgpack/fallback.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/packaging/__about__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/packaging/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/packaging/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/packaging/_structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/packaging/markers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/packaging/requirements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/packaging/specifiers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/packaging/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/packaging/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/pep517/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/pep517/_in_process.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/pep517/check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/pep517/colorlog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/pep517/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/pep517/envbuild.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/pep517/wrappers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/pkg_resources/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/pkg_resources/py31compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/progress/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/progress/bar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/progress/counter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/progress/helpers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/progress/spinner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/pyparsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/pytoml/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/pytoml/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/pytoml/parser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/pytoml/writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/__version__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/_internal_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/adapters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/certs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/cookies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/help.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/hooks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/packages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/sessions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/status_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/requests/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/retrying.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/_collections.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/connectionpool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/contrib/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport/bindings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/contrib/_securetransport/low_level.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/contrib/appengine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/contrib/ntlmpool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/contrib/pyopenssl.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/contrib/securetransport.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/contrib/socks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/fields.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/filepost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/packages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/packages/backports/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/packages/backports/makefile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/packages/ordered_dict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/packages/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/poolmanager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/util/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/util/connection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/util/queue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/util/request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/util/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/util/retry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/util/ssl_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/util/timeout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/util/url.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/urllib3/util/wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/webencodings/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/webencodings/labels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/webencodings/mklabels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/webencodings/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pip/_vendor/webencodings/x_user_defined.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pkg_resources/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pkg_resources/_vendor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pkg_resources/_vendor/appdirs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pkg_resources/_vendor/packaging/__about__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pkg_resources/_vendor/packaging/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pkg_resources/_vendor/packaging/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pkg_resources/_vendor/packaging/_structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pkg_resources/_vendor/packaging/markers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pkg_resources/_vendor/packaging/requirements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pkg_resources/_vendor/packaging/specifiers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pkg_resources/_vendor/packaging/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pkg_resources/_vendor/packaging/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pkg_resources/_vendor/pyparsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pkg_resources/_vendor/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pkg_resources/extern/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/pkg_resources/py31compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-40.6.2.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-40.6.2.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-40.6.2.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-40.6.2.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-40.6.2.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-40.6.2.dist-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-40.6.2.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-40.6.2.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools-40.6.2.dist-info/zip-safe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/_deprecation_warning.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/_vendor/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/_vendor/packaging/__about__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/_vendor/packaging/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/_vendor/packaging/_compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/_vendor/packaging/_structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/_vendor/packaging/markers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/_vendor/packaging/requirements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/_vendor/packaging/specifiers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/_vendor/packaging/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/_vendor/packaging/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/_vendor/pyparsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/_vendor/six.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/archive_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/build_meta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/cli-32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/cli-64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/cli.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/alias.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/bdist_egg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/bdist_rpm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/bdist_wininst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/build_clib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/build_ext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/build_py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/develop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/dist_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/easy_install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/egg_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/install_egg_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/install_lib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/install_scripts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/launcher manifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/py36compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/register.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/rotate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/saveopts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/sdist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/setopt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/upload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/command/upload_docs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/dep_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/depends.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/dist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/extension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/extern/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/glibc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/glob.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/gui-32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/gui-64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/gui.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/launch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/lib2to3_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/monkey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/msvc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/namespaces.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/package_index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/pep425tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/py27compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/py31compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/py33compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/py36compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/sandbox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/script (dev).tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/script.tmpl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/site-patch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/ssl_support.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/unicode_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/setuptools/windows_support.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/tcl8.6/init.tcl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_asyncio.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_bz2.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_ctypes.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_ctypes_test.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_decimal.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_distutils_findvs.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_elementtree.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_hashlib.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_lzma.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_msi.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_multiprocessing.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_overlapped.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_socket.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_sqlite3.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_ssl.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_testbuffer.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_testcapi.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_testconsole.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_testimportmultiple.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_testmultiphase.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/_tkinter.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/activate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/deactivate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/easy_install-3.6.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/easy_install.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pip-script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pip.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pip.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pip3-script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pip3.6-script.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pip3.6.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pip3.6.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pip3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pip3.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pyexpat.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/python.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/python3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/python36.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/python_32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/pythonw_32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/select.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/sqlite3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/tcl86t.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/tk86t.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/unicodedata.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/vcruntime140.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Scripts/winsound.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/pyvenv.cfg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bhpnet.py" beforeDir="false" afterPath="$PROJECT_DIR$/bhpnet.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/flashSocketConnection.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="523">
+              <caret line="89" column="76" selection-start-line="89" selection-start-column="76" selection-end-line="89" selection-end-column="76" />
+              <folding>
+                <element signature="e#22#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bhpnet.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3">
+              <caret line="29" column="31" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="31" />
+              <folding>
+                <element signature="e#213#304#0" />
+                <element signature="e#1013#1390#0" />
+                <element signature="e#1423#1624#0" />
+                <element signature="e#1665#2754#0" />
+                <element signature="e#2772#3911#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/netcat.py" />
+        <option value="$PROJECT_DIR$/hbnet.py" />
+        <option value="$PROJECT_DIR$/hbpnet.py" />
+        <option value="$PROJECT_DIR$/help" />
+        <option value="$PROJECT_DIR$/bhpnet.py" />
+        <option value="$PROJECT_DIR$/flashSocketConnection.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="netcat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netcat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="netcat" type="b2602c69:ProjectViewProjectNode" />
+              <item name="netcat" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.flashSocketConnection">
+    <configuration name="bhpnet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="natcat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bhpnet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="flashSocketConnection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="natcat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flashSocketConnection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.bhpnet" />
+      <item itemvalue="Python.flashSocketConnection" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.flashSocketConnection" />
+        <item itemvalue="Python.bhpnet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d90021f9-7b4f-416e-9a4e-48532f42dfb7" name="Default Changelist" comment="" />
+      <created>1543109337558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543109337558</updated>
+    </task>
+    <task id="LOCAL-00001" summary="improve the code of help()">
+      <created>1543715402240</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1543715402240</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32814237" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39154616" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3337041" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32814237" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="improve the code of help()" />
+    <MESSAGE value="新的项目" />
+    <option name="LAST_COMMIT_MESSAGE" value="新的项目" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bhpFunction/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/help">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="54" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="1082" selection-start-line="1082" selection-end-line="1082" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/python3.6.6_win32/Lib/tokenize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="451" selection-start-line="451" selection-end-line="451" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bhpnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="29" column="31" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="31" />
+          <folding>
+            <element signature="e#213#304#0" />
+            <element signature="e#1013#1390#0" />
+            <element signature="e#1423#1624#0" />
+            <element signature="e#1665#2754#0" />
+            <element signature="e#2772#3911#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flashSocketConnection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="89" column="76" selection-start-line="89" selection-start-column="76" selection-end-line="89" selection-end-column="76" />
+          <folding>
+            <element signature="e#22#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
