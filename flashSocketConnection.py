@@ -21,9 +21,9 @@ else:  #Python 3.x
     #import tkinter.filedialog as tkFileDialog
     #import tkinter.simpledialog as tkSimpleDialog    #askstring()
 
-listen = False
-target = ""
-port = 0
+listen: bool = False
+target: str = ""
+port: int = 0
 
 
 class Application_ui(Frame):

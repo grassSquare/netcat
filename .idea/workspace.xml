@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d90021f9-7b4f-416e-9a4e-48532f42dfb7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/flashSocketHost.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flashSocketConnection.py" beforeDir="false" afterPath="$PROJECT_DIR$/flashSocketConnection.py" afterDir="false" />
     </list>
@@ -16,10 +17,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/flashSocketConnection.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="84" column="19" selection-start-line="84" selection-start-column="19" selection-end-line="84" selection-end-column="19" />
+            <state relative-caret-position="-370">
+              <caret line="46" column="78" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="78" />
               <folding>
                 <element signature="e#22#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flashSocketHost.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -62,6 +75,7 @@
         <option value="$PROJECT_DIR$/help" />
         <option value="$PROJECT_DIR$/bhpnet.py" />
         <option value="$PROJECT_DIR$/flashSocketConnection.py" />
+        <option value="$PROJECT_DIR$/flashSocketHost.py" />
       </list>
     </option>
   </component>
@@ -112,7 +126,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.flashSocketConnection">
+  <component name="RunManager" selected="Python.flashSocketHost">
     <configuration name="bhpnet" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="natcat" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -155,12 +169,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="flashSocketHost" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="natcat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flashSocketHost.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.bhpnet" />
       <item itemvalue="Python.flashSocketConnection" />
+      <item itemvalue="Python.flashSocketHost" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.flashSocketHost" />
         <item itemvalue="Python.flashSocketConnection" />
         <item itemvalue="Python.bhpnet" />
       </list>
@@ -184,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1543715402240</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="改进Command1_Cmd并写了它的函数">
+      <created>1544334180769</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1544334180772</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -222,7 +266,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="improve the code of help()" />
     <MESSAGE value="新的项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="新的项目" />
+    <MESSAGE value="改进Command1_Cmd并写了它的函数" />
+    <option name="LAST_COMMIT_MESSAGE" value="改进Command1_Cmd并写了它的函数" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/bhpFunction/__init__.py" />
@@ -254,6 +299,7 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.editorconfig" />
     <entry file="file://$PROJECT_DIR$/bhpnet.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -268,13 +314,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.editorconfig">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/flashSocketHost.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flashSocketConnection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="84" column="19" selection-start-line="84" selection-start-column="19" selection-end-line="84" selection-end-column="19" />
+        <state relative-caret-position="-370">
+          <caret line="46" column="78" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="78" />
           <folding>
             <element signature="e#22#35#0" expanded="true" />
           </folding>
