@@ -1,6 +1,5 @@
 #-*- coding:utf-8 -*-
 import socket
-import easygui
 import os, sys
 try:
     from tkinter import *
@@ -44,16 +43,16 @@ class Application_ui(Frame):
         self.Label1 = Label(self.top, text='目标ip：', style='Label1.TLabel')
         self.Label1.place(relx=0.026, rely=0.04, relwidth=0.266, relheight=0.124)
 
-        self.Text1Var = StringVar(value='Text1')
-        self.Text1 = Entry(self.top, text='Text1', textvariable=self.Text1Var, font=('宋体',9))
+        self.Text1Var = StringVar(value='')
+        self.Text1 = Entry(self.top,textvariable=self.Text1Var, font=('宋体',9))
         self.Text1.place(relx=0.526, rely=0.04, relwidth=0.451, relheight=0.124)
 
         self.style.configure('Label2.TLabel',anchor='w', font=('宋体',9))
         self.Label2 = Label(self.top, text='目标port：', style='Label2.TLabel')
         self.Label2.place(relx=0.026, rely=0.198, relwidth=0.24, relheight=0.084)
 
-        self.Text2Var = StringVar(value='Text2')
-        self.Text2 = Entry(self.top, text='Text2', textvariable=self.Text2Var, font=('宋体',9))
+        self.Text2Var = StringVar(value='')
+        self.Text2 = Entry(self.top,textvariable=self.Text2Var, font=('宋体',9))
         self.Text2.place(relx=0.526, rely=0.198, relwidth=0.451, relheight=0.124)
 
         self.style.configure('Command1.TButton',font=('宋体',9))
@@ -82,12 +81,17 @@ class Application(Application_ui):
         #TODO, Please finish the function here!
         print("exed")
         client = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
+        global target
+        global port
+        target = str(self.Text1.get())
+        port = int(self.Text2.get())
+        print(target,port)
         try:
             client.connect((target, port))
             client.send("sss")
         except:
             print("fail")
-            Application_ui.Label3.text = "disconnected" #label3.text = "fail"
+            self.Label3.config(text="连接失败" )#label3.text = "fail"
 
     def Command2_Cmd(self, event=None):
         #TODO, Please finish the function here!
