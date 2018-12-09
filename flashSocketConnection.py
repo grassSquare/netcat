@@ -1,6 +1,7 @@
 #-*- coding:utf-8 -*-
 import socket
 import os, sys
+import easygui as g
 try:
     from tkinter import *
 except ImportError:  #Python 2.x
@@ -83,8 +84,11 @@ class Application(Application_ui):
         client = socket.socket(socket.AF_INET,socket.SOCK_STREAM)
         global target
         global port
-        target = str(self.Text1.get())
-        port = int(self.Text2.get())
+        try:
+            target = str(self.Text1.get())
+            port = int(self.Text2.get())
+        except:
+            g.msgbox("请输入ip及port")
         print(target,port)
         try:
             client.connect((target, port))

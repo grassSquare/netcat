@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d90021f9-7b4f-416e-9a4e-48532f42dfb7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/flashSocketHost.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/flashSocketConnection.py" beforeDir="false" afterPath="$PROJECT_DIR$/flashSocketConnection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flashSocketHost.py" beforeDir="false" afterPath="$PROJECT_DIR$/flashSocketHost.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flashSocketConnection.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-370">
-              <caret line="46" column="78" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="78" />
+            <state relative-caret-position="399">
+              <caret line="90" column="32" selection-start-line="90" selection-start-column="32" selection-end-line="90" selection-end-column="32" />
               <folding>
                 <element signature="e#22#35#0" expanded="true" />
               </folding>
@@ -26,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/flashSocketHost.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="57">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -39,17 +39,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bhpnet.py">
+        <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="29" column="31" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="31" />
-              <folding>
-                <element signature="e#213#304#0" />
-                <element signature="e#1013#1390#0" />
-                <element signature="e#1423#1624#0" />
-                <element signature="e#1665#2754#0" />
-                <element signature="e#2772#3911#0" />
-              </folding>
+            <state relative-caret-position="323">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -74,16 +67,15 @@
         <option value="$PROJECT_DIR$/hbpnet.py" />
         <option value="$PROJECT_DIR$/help" />
         <option value="$PROJECT_DIR$/bhpnet.py" />
-        <option value="$PROJECT_DIR$/flashSocketConnection.py" />
         <option value="$PROJECT_DIR$/flashSocketHost.py" />
+        <option value="$PROJECT_DIR$/flashSocketConnection.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="960" />
+    <option name="width" value="960" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -126,7 +118,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.flashSocketHost">
+  <component name="RunManager" selected="Python.flashSocketConnection">
     <configuration name="bhpnet" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="natcat" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -197,8 +189,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.flashSocketHost" />
         <item itemvalue="Python.flashSocketConnection" />
+        <item itemvalue="Python.flashSocketHost" />
         <item itemvalue="Python.bhpnet" />
       </list>
     </recent_temporary>
@@ -228,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1544334180772</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="服务端">
+      <created>1544337473353</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1544337473353</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -241,33 +240,52 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="960" y="0" width="960" height="1040" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.5140998" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32814237" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39154616" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947312" weight="0.33408833" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39071348" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3295583" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32842582" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3337041" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50052685" side_tool="true" weight="0.32814237" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32814237" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.5140998" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49947312" visible="true" weight="0.33408833" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39154616" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32925472" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3337041" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50052685" side_tool="true" weight="0.32814237" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32814237" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="improve the code of help()" />
     <MESSAGE value="新的项目" />
     <MESSAGE value="改进Command1_Cmd并写了它的函数" />
-    <option name="LAST_COMMIT_MESSAGE" value="改进Command1_Cmd并写了它的函数" />
+    <MESSAGE value="服务端" />
+    <option name="LAST_COMMIT_MESSAGE" value="服务端" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/bhpFunction/__init__.py" />
@@ -282,13 +300,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="1082" selection-start-line="1082" selection-end-line="1082" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -314,22 +325,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flashSocketHost.py">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flashSocketConnection.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-370">
-          <caret line="46" column="78" lean-forward="true" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="78" />
+        <state relative-caret-position="399">
+          <caret line="90" column="32" selection-start-line="90" selection-start-column="32" selection-end-line="90" selection-end-column="32" />
           <folding>
             <element signature="e#22#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flashSocketHost.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
