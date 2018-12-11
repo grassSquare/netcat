@@ -1,7 +1,6 @@
 #-*- coding:utf-8 -*-
 import socket
 import os, sys
-import easygui as g
 try:
     from tkinter import *
 except ImportError:  #Python 2.x
@@ -26,6 +25,11 @@ listen: bool = False
 target: str = ""
 port: int = 0
 
+def msgbox(msg:str)->Tk:
+    msgbox = Tk()
+    label1 = Label(msgbox, text=msg)
+    label1.pack()
+    msgbox.mainloop()
 
 class Application_ui(Frame):
     #这个类仅实现界面生成功能，具体事件处理代码在子类Application中。
@@ -88,7 +92,7 @@ class Application(Application_ui):
             target = str(self.Text1.get())
             port = int(self.Text2.get())
         except:
-            g.msgbox("请输入ip及port")
+            msgbox("请输入IP和port")
         print(target,port)
         try:
             client.connect((target, port))
