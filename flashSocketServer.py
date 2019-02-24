@@ -1,10 +1,12 @@
 from tkinter import *
 import socket
+import threading
+import win32api
 
 def msgbox(msg:str)->Tk:
     msgbox = Tk()
     Label1 = Label(msgbox, text=msg)
-    Label1.gird()
+    Label1.grid()
     msgbox.mainloop()
 
 def startLink():
